@@ -1,0 +1,1904 @@
+{
+  "updatedTime" : "10:50 AM",
+  "supportedDomains" : {
+    "0" : "https://www.apple.com/iphone-7/",
+    "1" : "http://www.apple.com/",
+    "2" : "http://storeint.apple.com/",
+    "3" : "http://epp.apple.com/",
+    "4" : "applestore://"
+  },
+  "stores" : [ {
+    "storeNumber" : "R414",
+    "storeName" : "4th Street",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Berkeley"
+  }, {
+    "storeNumber" : "R177",
+    "storeName" : "ABQ Uptown",
+    "storeEnabled" : true,
+    "storeState" : "New Mexico",
+    "sellEdition" : false,
+    "storeCity" : "Albuquerque"
+  }, {
+    "storeNumber" : "R073",
+    "storeName" : "Ala Moana",
+    "storeEnabled" : true,
+    "storeState" : "Hawaii",
+    "sellEdition" : false,
+    "storeCity" : "Honolulu"
+  }, {
+    "storeNumber" : "R100",
+    "storeName" : "Alderwood Mall",
+    "storeEnabled" : true,
+    "storeState" : "Washington",
+    "sellEdition" : false,
+    "storeCity" : "Lynnwood"
+  }, {
+    "storeNumber" : "R291",
+    "storeName" : "Altamonte",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Altamonte Springs"
+  }, {
+    "storeNumber" : "R262",
+    "storeName" : "Anchorage 5th Avenue Mall",
+    "storeEnabled" : true,
+    "storeState" : "Alaska",
+    "sellEdition" : false,
+    "storeCity" : "Anchorage"
+  }, {
+    "storeNumber" : "R142",
+    "storeName" : "Annapolis",
+    "storeEnabled" : true,
+    "storeState" : "Maryland",
+    "sellEdition" : false,
+    "storeCity" : "Annapolis"
+  }, {
+    "storeNumber" : "R070",
+    "storeName" : "Arden Fair",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Sacramento"
+  }, {
+    "storeNumber" : "R247",
+    "storeName" : "Arrowhead",
+    "storeEnabled" : true,
+    "storeState" : "Arizona",
+    "sellEdition" : false,
+    "storeCity" : "Glendale"
+  }, {
+    "storeNumber" : "R030",
+    "storeName" : "Aspen Grove",
+    "storeEnabled" : true,
+    "storeState" : "Colorado",
+    "sellEdition" : false,
+    "storeCity" : "Littleton"
+  }, {
+    "storeNumber" : "R364",
+    "storeName" : "Augusta",
+    "storeEnabled" : true,
+    "storeState" : "Georgia",
+    "sellEdition" : false,
+    "storeCity" : "Augusta"
+  }, {
+    "storeNumber" : "R087",
+    "storeName" : "Aventura",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Aventura"
+  }, {
+    "storeNumber" : "R085",
+    "storeName" : "Barton Creek",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "Austin"
+  }, {
+    "storeNumber" : "R057",
+    "storeName" : "Bay Street",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Emeryville"
+  }, {
+    "storeNumber" : "R204",
+    "storeName" : "Baybrook",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "Friendswood"
+  }, {
+    "storeNumber" : "R257",
+    "storeName" : "Bayshore",
+    "storeEnabled" : true,
+    "storeState" : "Wisconsin",
+    "sellEdition" : false,
+    "storeCity" : "Glendale"
+  }, {
+    "storeNumber" : "R003",
+    "storeName" : "Bellevue Square",
+    "storeEnabled" : true,
+    "storeState" : "Washington",
+    "sellEdition" : false,
+    "storeCity" : "Bellevue"
+  }, {
+    "storeNumber" : "R112",
+    "storeName" : "Bethesda Row",
+    "storeEnabled" : true,
+    "storeState" : "Maryland",
+    "sellEdition" : false,
+    "storeCity" : "Bethesda"
+  }, {
+    "storeNumber" : "R124",
+    "storeName" : "Beverly Center",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Los Angeles"
+  }, {
+    "storeNumber" : "R031",
+    "storeName" : "Biltmore",
+    "storeEnabled" : true,
+    "storeState" : "Arizona",
+    "sellEdition" : false,
+    "storeCity" : "Phoenix"
+  }, {
+    "storeNumber" : "R074",
+    "storeName" : "Boca Raton",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Boca Raton"
+  }, {
+    "storeNumber" : "R303",
+    "storeName" : "Boise Towne Square",
+    "storeEnabled" : true,
+    "storeState" : "Idaho",
+    "sellEdition" : false,
+    "storeCity" : "Boise"
+  }, {
+    "storeNumber" : "R149",
+    "storeName" : "Boylston Street",
+    "storeEnabled" : true,
+    "storeState" : "Massachusetts",
+    "sellEdition" : false,
+    "storeCity" : "Boston"
+  }, {
+    "storeNumber" : "R289",
+    "storeName" : "Brandon",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Brandon"
+  }, {
+    "storeNumber" : "R156",
+    "storeName" : "Brea Mall",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Brea"
+  }, {
+    "storeNumber" : "R230",
+    "storeName" : "Briarwood",
+    "storeEnabled" : true,
+    "storeState" : "Michigan",
+    "sellEdition" : false,
+    "storeCity" : "Ann Arbor"
+  }, {
+    "storeNumber" : "R266",
+    "storeName" : "Bridge Street",
+    "storeEnabled" : true,
+    "storeState" : "Alabama",
+    "sellEdition" : false,
+    "storeCity" : "Huntsville"
+  }, {
+    "storeNumber" : "R134",
+    "storeName" : "Bridgeport Village",
+    "storeEnabled" : true,
+    "storeState" : "Oregon",
+    "sellEdition" : false,
+    "storeCity" : "Tigard"
+  }, {
+    "storeNumber" : "R104",
+    "storeName" : "Bridgewater",
+    "storeEnabled" : true,
+    "storeState" : "New Jersey",
+    "sellEdition" : false,
+    "storeCity" : "Bridgewater"
+  }, {
+    "storeNumber" : "R029",
+    "storeName" : "Burlingame",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Burlingame"
+  }, {
+    "storeNumber" : "R155",
+    "storeName" : "Burlington",
+    "storeEnabled" : true,
+    "storeState" : "Massachusetts",
+    "sellEdition" : false,
+    "storeCity" : "Burlington"
+  }, {
+    "storeNumber" : "R021",
+    "storeName" : "CambridgeSide",
+    "storeEnabled" : false,
+    "storeState" : "Massachusetts",
+    "sellEdition" : false,
+    "storeCity" : "Cambridge"
+  }, {
+    "storeNumber" : "R294",
+    "storeName" : "Carlsbad",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Carlsbad"
+  }, {
+    "storeNumber" : "R108",
+    "storeName" : "Century City",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Los Angeles"
+  }, {
+    "storeNumber" : "R026",
+    "storeName" : "Chandler Fashion Center",
+    "storeEnabled" : true,
+    "storeState" : "Arizona",
+    "sellEdition" : false,
+    "storeCity" : "Chandler"
+  }, {
+    "storeNumber" : "R047",
+    "storeName" : "Cherry Creek",
+    "storeEnabled" : true,
+    "storeState" : "Colorado",
+    "sellEdition" : false,
+    "storeCity" : "Denver"
+  }, {
+    "storeNumber" : "R206",
+    "storeName" : "Cherry Hill",
+    "storeEnabled" : true,
+    "storeState" : "New Jersey",
+    "sellEdition" : false,
+    "storeCity" : "Cherry Hill"
+  }, {
+    "storeNumber" : "R076",
+    "storeName" : "Chestnut Hill",
+    "storeEnabled" : true,
+    "storeState" : "Massachusetts",
+    "sellEdition" : false,
+    "storeCity" : "Chestnut Hill"
+  }, {
+    "storeNumber" : "R217",
+    "storeName" : "Chestnut Street",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "San Francisco"
+  }, {
+    "storeNumber" : "R102",
+    "storeName" : "Christiana Mall",
+    "storeEnabled" : true,
+    "storeState" : "Delaware",
+    "sellEdition" : false,
+    "storeCity" : "Newark"
+  }, {
+    "storeNumber" : "R492",
+    "storeName" : "Cielo Vista Mall",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "El Paso"
+  }, {
+    "storeNumber" : "R125",
+    "storeName" : "City Creek Center",
+    "storeEnabled" : true,
+    "storeState" : "Utah",
+    "sellEdition" : false,
+    "storeCity" : "Salt Lake City"
+  }, {
+    "storeNumber" : "R036",
+    "storeName" : "Clarendon",
+    "storeEnabled" : false,
+    "storeState" : "Virginia",
+    "sellEdition" : false,
+    "storeCity" : "Arlington"
+  }, {
+    "storeNumber" : "R185",
+    "storeName" : "Coconut Point",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Estero"
+  }, {
+    "storeNumber" : "R168",
+    "storeName" : "Columbia",
+    "storeEnabled" : true,
+    "storeState" : "Maryland",
+    "sellEdition" : false,
+    "storeCity" : "Columbia"
+  }, {
+    "storeNumber" : "R513",
+    "storeName" : "CoolSprings Galleria",
+    "storeEnabled" : true,
+    "storeState" : "Tennessee",
+    "sellEdition" : false,
+    "storeCity" : "Franklin"
+  }, {
+    "storeNumber" : "R071",
+    "storeName" : "Corte Madera",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Corte Madera"
+  }, {
+    "storeNumber" : "R097",
+    "storeName" : "Country Club Plaza",
+    "storeEnabled" : true,
+    "storeState" : "Missouri",
+    "sellEdition" : false,
+    "storeCity" : "Kansas City"
+  }, {
+    "storeNumber" : "R116",
+    "storeName" : "Crabtree Valley Mall",
+    "storeEnabled" : true,
+    "storeState" : "North Carolina",
+    "sellEdition" : false,
+    "storeCity" : "Raleigh"
+  }, {
+    "storeNumber" : "R192",
+    "storeName" : "Crocker Park",
+    "storeEnabled" : true,
+    "storeState" : "Ohio",
+    "sellEdition" : false,
+    "storeCity" : "Westlake"
+  }, {
+    "storeNumber" : "R017",
+    "storeName" : "Crossgates",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "Albany"
+  }, {
+    "storeNumber" : "R591",
+    "storeName" : "Cumberland Mall",
+    "storeEnabled" : true,
+    "storeState" : "Georgia",
+    "sellEdition" : false,
+    "storeCity" : "Atlanta"
+  }, {
+    "storeNumber" : "R312",
+    "storeName" : "Dadeland",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Miami"
+  }, {
+    "storeNumber" : "R093",
+    "storeName" : "Danbury Fair Mall",
+    "storeEnabled" : true,
+    "storeState" : "Connecticut",
+    "sellEdition" : false,
+    "storeCity" : "Danbury"
+  }, {
+    "storeNumber" : "R258",
+    "storeName" : "Deer Park",
+    "storeEnabled" : true,
+    "storeState" : "Illinois",
+    "sellEdition" : false,
+    "storeCity" : "Deer Park"
+  }, {
+    "storeNumber" : "R305",
+    "storeName" : "Del Monte",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Monterey"
+  }, {
+    "storeNumber" : "R137",
+    "storeName" : "Derby Street",
+    "storeEnabled" : true,
+    "storeState" : "Massachusetts",
+    "sellEdition" : false,
+    "storeCity" : "Hingham"
+  }, {
+    "storeNumber" : "R009",
+    "storeName" : "Easton Town Center",
+    "storeEnabled" : true,
+    "storeState" : "Ohio",
+    "sellEdition" : false,
+    "storeCity" : "Columbus"
+  }, {
+    "storeNumber" : "R140",
+    "storeName" : "Eastview",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "Victor"
+  }, {
+    "storeNumber" : "R616",
+    "storeName" : "Eastwood Towne Center",
+    "storeEnabled" : true,
+    "storeState" : "Michigan",
+    "sellEdition" : false,
+    "storeCity" : "Lansing"
+  }, {
+    "storeNumber" : "R297",
+    "storeName" : "El Paseo Village",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Palm Desert"
+  }, {
+    "storeNumber" : "R081",
+    "storeName" : "Eton",
+    "storeEnabled" : true,
+    "storeState" : "Ohio",
+    "sellEdition" : false,
+    "storeCity" : "Woodmere"
+  }, {
+    "storeNumber" : "R613",
+    "storeName" : "Evergreen Walk",
+    "storeEnabled" : true,
+    "storeState" : "Connecticut",
+    "sellEdition" : false,
+    "storeCity" : "South Windsor"
+  }, {
+    "storeNumber" : "R221",
+    "storeName" : "Fair Oaks",
+    "storeEnabled" : true,
+    "storeState" : "Virginia",
+    "sellEdition" : false,
+    "storeCity" : "Fairfax"
+  }, {
+    "storeNumber" : "R236",
+    "storeName" : "Fashion Fair",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Fresno"
+  }, {
+    "storeNumber" : "R015",
+    "storeName" : "Fashion Island",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Newport Beach"
+  }, {
+    "storeNumber" : "R461",
+    "storeName" : "Fashion Place",
+    "storeEnabled" : true,
+    "storeState" : "Utah",
+    "sellEdition" : false,
+    "storeCity" : "Murray"
+  }, {
+    "storeNumber" : "R064",
+    "storeName" : "Fashion Show",
+    "storeEnabled" : true,
+    "storeState" : "Nevada",
+    "sellEdition" : false,
+    "storeCity" : "Las Vegas"
+  }, {
+    "storeNumber" : "R040",
+    "storeName" : "Fashion Valley",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "San Diego"
+  }, {
+    "storeNumber" : "R288",
+    "storeName" : "Fayette Mall",
+    "storeEnabled" : true,
+    "storeState" : "Kentucky",
+    "sellEdition" : false,
+    "storeCity" : "Lexington"
+  }, {
+    "storeNumber" : "R095",
+    "storeName" : "Fifth Avenue",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : true,
+    "storeCity" : "New York"
+  }, {
+    "storeNumber" : "R205",
+    "storeName" : "First Colony Mall",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "Sugar Land"
+  }, {
+    "storeNumber" : "R182",
+    "storeName" : "FlatIron Crossing",
+    "storeEnabled" : true,
+    "storeState" : "Colorado",
+    "sellEdition" : false,
+    "storeCity" : "Broomfield"
+  }, {
+    "storeNumber" : "R143",
+    "storeName" : "Florida Mall",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Orlando"
+  }, {
+    "storeNumber" : "R299",
+    "storeName" : "Franklin Park Mall",
+    "storeEnabled" : true,
+    "storeState" : "Ohio",
+    "sellEdition" : false,
+    "storeCity" : "Toledo"
+  }, {
+    "storeNumber" : "R138",
+    "storeName" : "Freehold Raceway Mall",
+    "storeEnabled" : true,
+    "storeState" : "New Jersey",
+    "sellEdition" : false,
+    "storeCity" : "Freehold"
+  }, {
+    "storeNumber" : "R293",
+    "storeName" : "Friendly Center",
+    "storeEnabled" : true,
+    "storeState" : "North Carolina",
+    "sellEdition" : false,
+    "storeCity" : "Greensboro"
+  }, {
+    "storeNumber" : "R117",
+    "storeName" : "Garden State Plaza",
+    "storeEnabled" : true,
+    "storeState" : "New Jersey",
+    "sellEdition" : false,
+    "storeCity" : "Paramus"
+  }, {
+    "storeNumber" : "R287",
+    "storeName" : "Georgetown",
+    "storeEnabled" : true,
+    "storeState" : "District of Columbia",
+    "sellEdition" : false,
+    "storeCity" : "Washington"
+  }, {
+    "storeNumber" : "R001",
+    "storeName" : "Glendale Galleria",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Glendale"
+  }, {
+    "storeNumber" : "R415",
+    "storeName" : "Grand Central",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "New York"
+  }, {
+    "storeNumber" : "R123",
+    "storeName" : "Green Hills",
+    "storeEnabled" : true,
+    "storeState" : "Tennessee",
+    "sellEdition" : false,
+    "storeCity" : "Nashville"
+  }, {
+    "storeNumber" : "R282",
+    "storeName" : "Greenwich Avenue",
+    "storeEnabled" : true,
+    "storeState" : "Connecticut",
+    "sellEdition" : false,
+    "storeCity" : "Greenwich"
+  }, {
+    "storeNumber" : "R355",
+    "storeName" : "Haywood Mall",
+    "storeEnabled" : true,
+    "storeState" : "South Carolina",
+    "sellEdition" : false,
+    "storeCity" : "Greenville"
+  }, {
+    "storeNumber" : "R437",
+    "storeName" : "Highland Village",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "Houston"
+  }, {
+    "storeNumber" : "R199",
+    "storeName" : "Higuera Street",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "San Luis Obispo"
+  }, {
+    "storeNumber" : "R231",
+    "storeName" : "Hillsdale",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "San Mateo"
+  }, {
+    "storeNumber" : "R191",
+    "storeName" : "Holyoke",
+    "storeEnabled" : true,
+    "storeState" : "Massachusetts",
+    "sellEdition" : false,
+    "storeCity" : "Holyoke"
+  }, {
+    "storeNumber" : "R058",
+    "storeName" : "Houston Galleria",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "Houston"
+  }, {
+    "storeNumber" : "R052",
+    "storeName" : "Infinite Loop",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Cupertino"
+  }, {
+    "storeNumber" : "R019",
+    "storeName" : "International Plaza",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Tampa"
+  }, {
+    "storeNumber" : "R146",
+    "storeName" : "Irvine Spectrum Center",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Irvine"
+  }, {
+    "storeNumber" : "R109",
+    "storeName" : "Jordan Creek",
+    "storeEnabled" : true,
+    "storeState" : "Iowa",
+    "sellEdition" : false,
+    "storeCity" : "West Des Moines"
+  }, {
+    "storeNumber" : "R210",
+    "storeName" : "Kahala",
+    "storeEnabled" : true,
+    "storeState" : "Hawaii",
+    "sellEdition" : false,
+    "storeCity" : "Honolulu"
+  }, {
+    "storeNumber" : "R028",
+    "storeName" : "Kenwood Towne Centre",
+    "storeEnabled" : true,
+    "storeState" : "Ohio",
+    "sellEdition" : false,
+    "storeCity" : "Cincinnati"
+  }, {
+    "storeNumber" : "R065",
+    "storeName" : "King of Prussia",
+    "storeEnabled" : true,
+    "storeState" : "Pennsylvania",
+    "sellEdition" : false,
+    "storeCity" : "King of Prussia"
+  }, {
+    "storeNumber" : "R318",
+    "storeName" : "King Street",
+    "storeEnabled" : true,
+    "storeState" : "South Carolina",
+    "sellEdition" : false,
+    "storeCity" : "Charleston"
+  }, {
+    "storeNumber" : "R042",
+    "storeName" : "Knox Street",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "Dallas"
+  }, {
+    "storeNumber" : "R131",
+    "storeName" : "La Cantera",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "San Antonio"
+  }, {
+    "storeNumber" : "R086",
+    "storeName" : "La Encantada",
+    "storeEnabled" : true,
+    "storeState" : "Arizona",
+    "sellEdition" : false,
+    "storeCity" : "Tucson"
+  }, {
+    "storeNumber" : "R235",
+    "storeName" : "Lakeside Shopping Center",
+    "storeEnabled" : true,
+    "storeState" : "Louisiana",
+    "sellEdition" : false,
+    "storeCity" : "Metairie"
+  }, {
+    "storeNumber" : "R283",
+    "storeName" : "Leawood",
+    "storeEnabled" : true,
+    "storeState" : "Kansas",
+    "sellEdition" : false,
+    "storeCity" : "Leawood"
+  }, {
+    "storeNumber" : "R346",
+    "storeName" : "Legacy Place",
+    "storeEnabled" : true,
+    "storeState" : "Massachusetts",
+    "sellEdition" : false,
+    "storeCity" : "Dedham"
+  }, {
+    "storeNumber" : "R281",
+    "storeName" : "Lehigh Valley",
+    "storeEnabled" : true,
+    "storeState" : "Pennsylvania",
+    "sellEdition" : false,
+    "storeCity" : "Whitehall"
+  }, {
+    "storeNumber" : "R006",
+    "storeName" : "Lenox Square",
+    "storeEnabled" : true,
+    "storeState" : "Georgia",
+    "sellEdition" : false,
+    "storeCity" : "Atlanta"
+  }, {
+    "storeNumber" : "R284",
+    "storeName" : "Lincoln Park",
+    "storeEnabled" : true,
+    "storeState" : "Illinois",
+    "sellEdition" : false,
+    "storeCity" : "Chicago"
+  }, {
+    "storeNumber" : "R115",
+    "storeName" : "Lincoln Road",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Miami Beach"
+  }, {
+    "storeNumber" : "R300",
+    "storeName" : "Los Cerritos",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Cerritos"
+  }, {
+    "storeNumber" : "R240",
+    "storeName" : "Los Gatos",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Los Gatos"
+  }, {
+    "storeNumber" : "R614",
+    "storeName" : "Lynnhaven Mall",
+    "storeEnabled" : true,
+    "storeState" : "Virginia",
+    "sellEdition" : false,
+    "storeCity" : "Virginia Beach"
+  }, {
+    "storeNumber" : "R211",
+    "storeName" : "MacArthur Center",
+    "storeEnabled" : true,
+    "storeState" : "Virginia",
+    "sellEdition" : false,
+    "storeCity" : "Norfolk"
+  }, {
+    "storeNumber" : "R348",
+    "storeName" : "Main Place",
+    "storeEnabled" : true,
+    "storeState" : "Illinois",
+    "sellEdition" : false,
+    "storeCity" : "Naperville"
+  }, {
+    "storeNumber" : "R307",
+    "storeName" : "Maine Mall",
+    "storeEnabled" : true,
+    "storeState" : "Maine",
+    "sellEdition" : false,
+    "storeCity" : "South Portland"
+  }, {
+    "storeNumber" : "R007",
+    "storeName" : "Mall of America",
+    "storeEnabled" : true,
+    "storeState" : "Minnesota",
+    "sellEdition" : false,
+    "storeCity" : "Bloomington"
+  }, {
+    "storeNumber" : "R259",
+    "storeName" : "Mall of Georgia",
+    "storeEnabled" : true,
+    "storeState" : "Georgia",
+    "sellEdition" : false,
+    "storeCity" : "Buford"
+  }, {
+    "storeNumber" : "R263",
+    "storeName" : "Mall of Louisiana",
+    "storeEnabled" : true,
+    "storeState" : "Louisiana",
+    "sellEdition" : false,
+    "storeCity" : "Baton Rouge"
+  }, {
+    "storeNumber" : "R327",
+    "storeName" : "Manhasset",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "Manhasset"
+  }, {
+    "storeNumber" : "R122",
+    "storeName" : "Manhattan Village",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Manhattan Beach"
+  }, {
+    "storeNumber" : "R059",
+    "storeName" : "Mayfair",
+    "storeEnabled" : true,
+    "storeState" : "Wisconsin",
+    "sellEdition" : false,
+    "storeCity" : "Wauwatosa"
+  }, {
+    "storeNumber" : "R164",
+    "storeName" : "Memorial City",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "Houston"
+  }, {
+    "storeNumber" : "R067",
+    "storeName" : "Menlo Park",
+    "storeEnabled" : true,
+    "storeState" : "New Jersey",
+    "sellEdition" : false,
+    "storeCity" : "Edison"
+  }, {
+    "storeNumber" : "R053",
+    "storeName" : "Millenia",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Orlando"
+  }, {
+    "storeNumber" : "R069",
+    "storeName" : "Mission Viejo",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Mission Viejo"
+  }, {
+    "storeNumber" : "R084",
+    "storeName" : "Montgomery Mall",
+    "storeEnabled" : false,
+    "storeState" : "Maryland",
+    "sellEdition" : false,
+    "storeCity" : "Bethesda"
+  }, {
+    "storeNumber" : "R046",
+    "storeName" : "Nanuet",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "Nanuet"
+  }, {
+    "storeNumber" : "R232",
+    "storeName" : "Natick Collection",
+    "storeEnabled" : true,
+    "storeState" : "Massachusetts",
+    "sellEdition" : false,
+    "storeCity" : "Natick"
+  }, {
+    "storeNumber" : "R446",
+    "storeName" : "New Haven",
+    "storeEnabled" : true,
+    "storeState" : "Connecticut",
+    "sellEdition" : false,
+    "storeCity" : "New Haven"
+  }, {
+    "storeNumber" : "R285",
+    "storeName" : "North County",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Escondido"
+  }, {
+    "storeNumber" : "R035",
+    "storeName" : "North Michigan Avenue",
+    "storeEnabled" : true,
+    "storeState" : "Illinois",
+    "sellEdition" : true,
+    "storeCity" : "Chicago"
+  }, {
+    "storeNumber" : "R080",
+    "storeName" : "North Point",
+    "storeEnabled" : true,
+    "storeState" : "Georgia",
+    "sellEdition" : false,
+    "storeCity" : "Alpharetta"
+  }, {
+    "storeNumber" : "R290",
+    "storeName" : "North Star",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "San Antonio"
+  }, {
+    "storeNumber" : "R141",
+    "storeName" : "Northbrook",
+    "storeEnabled" : true,
+    "storeState" : "Illinois",
+    "sellEdition" : false,
+    "storeCity" : "Northbrook"
+  }, {
+    "storeNumber" : "R463",
+    "storeName" : "Northlake Mall",
+    "storeEnabled" : true,
+    "storeState" : "North Carolina",
+    "sellEdition" : false,
+    "storeCity" : "Charlotte"
+  }, {
+    "storeNumber" : "R144",
+    "storeName" : "NorthPark Center",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "Dallas"
+  }, {
+    "storeNumber" : "R023",
+    "storeName" : "Northridge",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Northridge"
+  }, {
+    "storeNumber" : "R011",
+    "storeName" : "Northshore",
+    "storeEnabled" : true,
+    "storeState" : "Massachusetts",
+    "sellEdition" : false,
+    "storeCity" : "Peabody"
+  }, {
+    "storeNumber" : "R056",
+    "storeName" : "Oakbrook",
+    "storeEnabled" : true,
+    "storeState" : "Illinois",
+    "sellEdition" : false,
+    "storeCity" : "Oak Brook"
+  }, {
+    "storeNumber" : "R105",
+    "storeName" : "Oakridge",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "San Jose"
+  }, {
+    "storeNumber" : "R089",
+    "storeName" : "Old Orchard",
+    "storeEnabled" : true,
+    "storeState" : "Illinois",
+    "sellEdition" : false,
+    "storeCity" : "Skokie"
+  }, {
+    "storeNumber" : "R237",
+    "storeName" : "Orland Square Mall",
+    "storeEnabled" : true,
+    "storeState" : "Illinois",
+    "sellEdition" : false,
+    "storeCity" : "Orland Park"
+  }, {
+    "storeNumber" : "R213",
+    "storeName" : "Otay Ranch",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Chula Vista"
+  }, {
+    "storeNumber" : "R264",
+    "storeName" : "Oxmoor",
+    "storeEnabled" : true,
+    "storeState" : "Kentucky",
+    "sellEdition" : false,
+    "storeCity" : "Louisville"
+  }, {
+    "storeNumber" : "R002",
+    "storeName" : "Palo Alto",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Palo Alto"
+  }, {
+    "storeNumber" : "R304",
+    "storeName" : "Park City",
+    "storeEnabled" : true,
+    "storeState" : "Pennsylvania",
+    "sellEdition" : false,
+    "storeCity" : "Lancaster"
+  }, {
+    "storeNumber" : "R228",
+    "storeName" : "Park Meadows",
+    "storeEnabled" : true,
+    "storeState" : "Colorado",
+    "sellEdition" : false,
+    "storeCity" : "Lone Tree"
+  }, {
+    "storeNumber" : "R218",
+    "storeName" : "Partridge Creek",
+    "storeEnabled" : true,
+    "storeState" : "Michigan",
+    "sellEdition" : false,
+    "storeCity" : "Clinton Township"
+  }, {
+    "storeNumber" : "R034",
+    "storeName" : "Pasadena",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Pasadena"
+  }, {
+    "storeNumber" : "R130",
+    "storeName" : "Penn Square",
+    "storeEnabled" : true,
+    "storeState" : "Oklahoma",
+    "sellEdition" : false,
+    "storeCity" : "Oklahoma City"
+  }, {
+    "storeNumber" : "R129",
+    "storeName" : "Pentagon City",
+    "storeEnabled" : true,
+    "storeState" : "Virginia",
+    "sellEdition" : false,
+    "storeCity" : "Arlington"
+  }, {
+    "storeNumber" : "R184",
+    "storeName" : "Perimeter",
+    "storeEnabled" : true,
+    "storeState" : "Georgia",
+    "sellEdition" : false,
+    "storeCity" : "Atlanta"
+  }, {
+    "storeNumber" : "R354",
+    "storeName" : "Pheasant Lane",
+    "storeEnabled" : true,
+    "storeState" : "New Hampshire",
+    "sellEdition" : false,
+    "storeCity" : "Nashua"
+  }, {
+    "storeNumber" : "R077",
+    "storeName" : "Pioneer Place",
+    "storeEnabled" : true,
+    "storeState" : "Oregon",
+    "sellEdition" : false,
+    "storeCity" : "Portland"
+  }, {
+    "storeNumber" : "R417",
+    "storeName" : "Polaris Fashion Place",
+    "storeEnabled" : true,
+    "storeState" : "Ohio",
+    "sellEdition" : false,
+    "storeCity" : "Columbus"
+  }, {
+    "storeNumber" : "R598",
+    "storeName" : "Potomac Town Center",
+    "storeEnabled" : true,
+    "storeState" : "Virginia",
+    "sellEdition" : false,
+    "storeCity" : "Woodbridge"
+  }, {
+    "storeNumber" : "R345",
+    "storeName" : "Promenade Temecula",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Temecula"
+  }, {
+    "storeNumber" : "R167",
+    "storeName" : "Providence Place",
+    "storeEnabled" : true,
+    "storeState" : "Rhode Island",
+    "sellEdition" : false,
+    "storeCity" : "Providence"
+  }, {
+    "storeNumber" : "R549",
+    "storeName" : "Quaker Bridge",
+    "storeEnabled" : true,
+    "storeState" : "New Jersey",
+    "sellEdition" : false,
+    "storeCity" : "Lawrence Township"
+  }, {
+    "storeNumber" : "R612",
+    "storeName" : "Queens Center",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "Elmhurst"
+  }, {
+    "storeNumber" : "R324",
+    "storeName" : "Renaissance at Colony Park",
+    "storeEnabled" : true,
+    "storeState" : "Mississippi",
+    "sellEdition" : false,
+    "storeCity" : "Ridgeland"
+  }, {
+    "storeNumber" : "R271",
+    "storeName" : "Reston",
+    "storeEnabled" : true,
+    "storeState" : "Virginia",
+    "sellEdition" : false,
+    "storeCity" : "Reston"
+  }, {
+    "storeNumber" : "R261",
+    "storeName" : "Ridge Hill",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "Yonkers"
+  }, {
+    "storeNumber" : "R183",
+    "storeName" : "Ridgedale",
+    "storeEnabled" : true,
+    "storeState" : "Minnesota",
+    "sellEdition" : false,
+    "storeCity" : "Minnetonka"
+  }, {
+    "storeNumber" : "R420",
+    "storeName" : "River Park Square",
+    "storeEnabled" : true,
+    "storeState" : "Washington",
+    "sellEdition" : false,
+    "storeCity" : "Spokane"
+  }, {
+    "storeNumber" : "R103",
+    "storeName" : "Rockaway",
+    "storeEnabled" : true,
+    "storeState" : "New Jersey",
+    "sellEdition" : false,
+    "storeCity" : "Rockaway"
+  }, {
+    "storeNumber" : "R027",
+    "storeName" : "Rockingham Park",
+    "storeEnabled" : true,
+    "storeState" : "New Hampshire",
+    "sellEdition" : false,
+    "storeCity" : "Salem"
+  }, {
+    "storeNumber" : "R060",
+    "storeName" : "Roosevelt Field",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "Garden City"
+  }, {
+    "storeNumber" : "R022",
+    "storeName" : "Rosedale Center",
+    "storeEnabled" : true,
+    "storeState" : "Minnesota",
+    "sellEdition" : false,
+    "storeCity" : "Roseville"
+  }, {
+    "storeNumber" : "R298",
+    "storeName" : "Roseville",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Roseville"
+  }, {
+    "storeNumber" : "R413",
+    "storeName" : "Ross Park",
+    "storeEnabled" : true,
+    "storeState" : "Pennsylvania",
+    "sellEdition" : false,
+    "storeCity" : "Pittsburgh"
+  }, {
+    "storeNumber" : "R198",
+    "storeName" : "Royal Hawaiian",
+    "storeEnabled" : true,
+    "storeState" : "Hawaii",
+    "sellEdition" : false,
+    "storeCity" : "Honolulu"
+  }, {
+    "storeNumber" : "R020",
+    "storeName" : "Saddle Creek",
+    "storeEnabled" : true,
+    "storeState" : "Tennessee",
+    "sellEdition" : false,
+    "storeCity" : "Germantown"
+  }, {
+    "storeNumber" : "R088",
+    "storeName" : "Sagemore",
+    "storeEnabled" : true,
+    "storeState" : "New Jersey",
+    "sellEdition" : false,
+    "storeCity" : "Marlton"
+  }, {
+    "storeNumber" : "R114",
+    "storeName" : "Saint Louis Galleria",
+    "storeEnabled" : true,
+    "storeState" : "Missouri",
+    "sellEdition" : false,
+    "storeCity" : "St. Louis"
+  }, {
+    "storeNumber" : "R044",
+    "storeName" : "Santa Rosa Plaza",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Santa Rosa"
+  }, {
+    "storeNumber" : "R267",
+    "storeName" : "SanTan Village",
+    "storeEnabled" : true,
+    "storeState" : "Arizona",
+    "sellEdition" : false,
+    "storeCity" : "Gilbert"
+  }, {
+    "storeNumber" : "R292",
+    "storeName" : "Scottsdale Quarter",
+    "storeEnabled" : true,
+    "storeState" : "Arizona",
+    "sellEdition" : false,
+    "storeCity" : "Scottsdale"
+  }, {
+    "storeNumber" : "R096",
+    "storeName" : "Shadyside",
+    "storeEnabled" : true,
+    "storeState" : "Pennsylvania",
+    "sellEdition" : false,
+    "storeCity" : "Pittsburgh"
+  }, {
+    "storeNumber" : "R148",
+    "storeName" : "Sherman Oaks",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Sherman Oaks"
+  }, {
+    "storeNumber" : "R043",
+    "storeName" : "Short Hills",
+    "storeEnabled" : true,
+    "storeState" : "New Jersey",
+    "sellEdition" : false,
+    "storeCity" : "Short Hills"
+  }, {
+    "storeNumber" : "R078",
+    "storeName" : "Short Pump Town Center",
+    "storeEnabled" : true,
+    "storeState" : "Virginia",
+    "sellEdition" : false,
+    "storeCity" : "Richmond"
+  }, {
+    "storeNumber" : "R171",
+    "storeName" : "Simi Valley",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Simi Valley"
+  }, {
+    "storeNumber" : "R139",
+    "storeName" : "Smith Haven",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "Lake Grove"
+  }, {
+    "storeNumber" : "R032",
+    "storeName" : "SoHo",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "New York"
+  }, {
+    "storeNumber" : "R622",
+    "storeName" : "Solomon Pond Mall",
+    "storeEnabled" : true,
+    "storeState" : "Massachusetts",
+    "sellEdition" : false,
+    "storeCity" : "Marlborough"
+  }, {
+    "storeNumber" : "R055",
+    "storeName" : "Somerset",
+    "storeEnabled" : true,
+    "storeState" : "Michigan",
+    "sellEdition" : false,
+    "storeCity" : "Troy"
+  }, {
+    "storeNumber" : "R004",
+    "storeName" : "South Coast Plaza",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Costa Mesa"
+  }, {
+    "storeNumber" : "R147",
+    "storeName" : "South Hills Village",
+    "storeEnabled" : true,
+    "storeState" : "Pennsylvania",
+    "sellEdition" : false,
+    "storeCity" : "Pittsburgh"
+  }, {
+    "storeNumber" : "R110",
+    "storeName" : "South Shore",
+    "storeEnabled" : true,
+    "storeState" : "Massachusetts",
+    "sellEdition" : false,
+    "storeCity" : "Braintree"
+  }, {
+    "storeNumber" : "R106",
+    "storeName" : "Southcenter",
+    "storeEnabled" : true,
+    "storeState" : "Washington",
+    "sellEdition" : false,
+    "storeCity" : "Tukwila"
+  }, {
+    "storeNumber" : "R054",
+    "storeName" : "Southdale",
+    "storeEnabled" : true,
+    "storeState" : "Minnesota",
+    "sellEdition" : false,
+    "storeCity" : "Edina"
+  }, {
+    "storeNumber" : "R151",
+    "storeName" : "Southlake Town Square",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "Southlake"
+  }, {
+    "storeNumber" : "R083",
+    "storeName" : "SouthPark",
+    "storeEnabled" : true,
+    "storeState" : "North Carolina",
+    "sellEdition" : false,
+    "storeCity" : "Charlotte"
+  }, {
+    "storeNumber" : "R049",
+    "storeName" : "Southpoint",
+    "storeEnabled" : true,
+    "storeState" : "North Carolina",
+    "sellEdition" : false,
+    "storeCity" : "Durham"
+  }, {
+    "storeNumber" : "R111",
+    "storeName" : "St. Johns Town Center",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Jacksonville"
+  }, {
+    "storeNumber" : "R202",
+    "storeName" : "Stamford",
+    "storeEnabled" : true,
+    "storeState" : "Connecticut",
+    "sellEdition" : false,
+    "storeCity" : "Stamford"
+  }, {
+    "storeNumber" : "R099",
+    "storeName" : "Stanford",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Palo Alto"
+  }, {
+    "storeNumber" : "R317",
+    "storeName" : "State Street",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Santa Barbara"
+  }, {
+    "storeNumber" : "R152",
+    "storeName" : "Staten Island",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "Staten Island"
+  }, {
+    "storeNumber" : "R599",
+    "storeName" : "Station Park",
+    "storeEnabled" : true,
+    "storeState" : "Utah",
+    "sellEdition" : false,
+    "storeCity" : "Farmington"
+  }, {
+    "storeNumber" : "R302",
+    "storeName" : "Stonebriar",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "Frisco"
+  }, {
+    "storeNumber" : "R101",
+    "storeName" : "Stoneridge Mall",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Pleasanton"
+  }, {
+    "storeNumber" : "R033",
+    "storeName" : "Stonestown",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "San Francisco"
+  }, {
+    "storeNumber" : "R166",
+    "storeName" : "Suburban Square",
+    "storeEnabled" : true,
+    "storeState" : "Pennsylvania",
+    "sellEdition" : false,
+    "storeCity" : "Ardmore"
+  }, {
+    "storeNumber" : "R650",
+    "storeName" : "Summerlin",
+    "storeEnabled" : true,
+    "storeState" : "Nevada",
+    "sellEdition" : false,
+    "storeCity" : "Las Vegas"
+  }, {
+    "storeNumber" : "R353",
+    "storeName" : "Summit Mall",
+    "storeEnabled" : true,
+    "storeState" : "Ohio",
+    "sellEdition" : false,
+    "storeCity" : "Akron"
+  }, {
+    "storeNumber" : "R186",
+    "storeName" : "Summit Sierra",
+    "storeEnabled" : true,
+    "storeState" : "Nevada",
+    "sellEdition" : false,
+    "storeCity" : "Reno"
+  }, {
+    "storeNumber" : "R107",
+    "storeName" : "Syracuse",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "Syracuse"
+  }, {
+    "storeNumber" : "R339",
+    "storeName" : "Tacoma Mall",
+    "storeEnabled" : true,
+    "storeState" : "Washington",
+    "sellEdition" : false,
+    "storeCity" : "Tacoma"
+  }, {
+    "storeNumber" : "R451",
+    "storeName" : "The Americana at Brand",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Glendale"
+  }, {
+    "storeNumber" : "R216",
+    "storeName" : "The Domain",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "Austin"
+  }, {
+    "storeNumber" : "R012",
+    "storeName" : "The Falls",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Miami"
+  }, {
+    "storeNumber" : "R066",
+    "storeName" : "The Fashion Mall at Keystone",
+    "storeEnabled" : true,
+    "storeState" : "Indiana",
+    "sellEdition" : false,
+    "storeCity" : "Indianapolis"
+  }, {
+    "storeNumber" : "R161",
+    "storeName" : "The Forum Shops",
+    "storeEnabled" : true,
+    "storeState" : "Nevada",
+    "sellEdition" : false,
+    "storeCity" : "Las Vegas"
+  }, {
+    "storeNumber" : "R214",
+    "storeName" : "The Galleria",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Fort Lauderdale"
+  }, {
+    "storeNumber" : "R127",
+    "storeName" : "The Gardens Mall",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Palm Beach Gardens"
+  }, {
+    "storeNumber" : "R518",
+    "storeName" : "The Greene",
+    "storeEnabled" : true,
+    "storeState" : "Ohio",
+    "sellEdition" : false,
+    "storeCity" : "Beavercreek"
+  }, {
+    "storeNumber" : "R050",
+    "storeName" : "The Grove",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : true,
+    "storeCity" : "Los Angeles"
+  }, {
+    "storeNumber" : "R631",
+    "storeName" : "The Mall of New Hampshire",
+    "storeEnabled" : true,
+    "storeState" : "New Hampshire",
+    "sellEdition" : false,
+    "storeCity" : "Manchester"
+  }, {
+    "storeNumber" : "R154",
+    "storeName" : "The Oaks",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Thousand Oaks"
+  }, {
+    "storeNumber" : "R173",
+    "storeName" : "The Pier",
+    "storeEnabled" : true,
+    "storeState" : "New Jersey",
+    "sellEdition" : false,
+    "storeCity" : "Atlantic City"
+  }, {
+    "storeNumber" : "R286",
+    "storeName" : "The Promenade at Chenal",
+    "storeEnabled" : true,
+    "storeState" : "Arkansas",
+    "sellEdition" : false,
+    "storeCity" : "Little Rock"
+  }, {
+    "storeNumber" : "R338",
+    "storeName" : "The Promenade Shops at Briargate",
+    "storeEnabled" : true,
+    "storeState" : "Colorado",
+    "sellEdition" : false,
+    "storeCity" : "Colorado Springs"
+  }, {
+    "storeNumber" : "R225",
+    "storeName" : "The Summit",
+    "storeEnabled" : true,
+    "storeState" : "Alabama",
+    "sellEdition" : false,
+    "storeCity" : "Birmingham"
+  }, {
+    "storeNumber" : "R061",
+    "storeName" : "The Westchester",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "White Plains"
+  }, {
+    "storeNumber" : "R126",
+    "storeName" : "The Woodlands",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "The Woodlands"
+  }, {
+    "storeNumber" : "R051",
+    "storeName" : "Third Street Promenade",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Santa Monica"
+  }, {
+    "storeNumber" : "R013",
+    "storeName" : "Tice's Corner",
+    "storeEnabled" : true,
+    "storeState" : "New Jersey",
+    "sellEdition" : false,
+    "storeCity" : "Woodcliff Lake"
+  }, {
+    "storeNumber" : "R189",
+    "storeName" : "Topanga",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Canoga Park"
+  }, {
+    "storeNumber" : "R219",
+    "storeName" : "Town Square",
+    "storeEnabled" : true,
+    "storeState" : "Nevada",
+    "sellEdition" : false,
+    "storeCity" : "Las Vegas"
+  }, {
+    "storeNumber" : "R063",
+    "storeName" : "Towson Town Center",
+    "storeEnabled" : true,
+    "storeState" : "Maryland",
+    "sellEdition" : false,
+    "storeCity" : "Towson"
+  }, {
+    "storeNumber" : "R629",
+    "storeName" : "Trumbull",
+    "storeEnabled" : true,
+    "storeState" : "Connecticut",
+    "sellEdition" : false,
+    "storeCity" : "Trumbull"
+  }, {
+    "storeNumber" : "R041",
+    "storeName" : "Twelve Oaks",
+    "storeEnabled" : true,
+    "storeState" : "Michigan",
+    "sellEdition" : false,
+    "storeCity" : "Novi"
+  }, {
+    "storeNumber" : "R172",
+    "storeName" : "Twenty Ninth Street",
+    "storeEnabled" : true,
+    "storeState" : "Colorado",
+    "sellEdition" : false,
+    "storeCity" : "Boulder"
+  }, {
+    "storeNumber" : "R010",
+    "storeName" : "Tysons Corner",
+    "storeEnabled" : true,
+    "storeState" : "Virginia",
+    "sellEdition" : false,
+    "storeCity" : "McLean"
+  }, {
+    "storeNumber" : "R075",
+    "storeName" : "Union Square",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "San Francisco"
+  }, {
+    "storeNumber" : "R360",
+    "storeName" : "University Park Mall",
+    "storeEnabled" : true,
+    "storeState" : "Indiana",
+    "sellEdition" : false,
+    "storeCity" : "Mishawaka"
+  }, {
+    "storeNumber" : "R316",
+    "storeName" : "University Park Village",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "Fort Worth"
+  }, {
+    "storeNumber" : "R615",
+    "storeName" : "University Town Center",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Sarasota"
+  }, {
+    "storeNumber" : "R072",
+    "storeName" : "University Village",
+    "storeEnabled" : true,
+    "storeState" : "Washington",
+    "sellEdition" : false,
+    "storeCity" : "Seattle"
+  }, {
+    "storeNumber" : "R582",
+    "storeName" : "Upper East Side",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "New York"
+  }, {
+    "storeNumber" : "R251",
+    "storeName" : "Upper West Side",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "New York"
+  }, {
+    "storeNumber" : "R272",
+    "storeName" : "Uptown",
+    "storeEnabled" : true,
+    "storeState" : "Minnesota",
+    "sellEdition" : false,
+    "storeCity" : "Minneapolis"
+  }, {
+    "storeNumber" : "R082",
+    "storeName" : "UTC",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "San Diego"
+  }, {
+    "storeNumber" : "R462",
+    "storeName" : "Valencia Town Center",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Valencia"
+  }, {
+    "storeNumber" : "R039",
+    "storeName" : "Valley Fair",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Santa Clara"
+  }, {
+    "storeNumber" : "R550",
+    "storeName" : "Valley Plaza",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Bakersfield"
+  }, {
+    "storeNumber" : "R094",
+    "storeName" : "Victoria Gardens",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Rancho Cucamonga"
+  }, {
+    "storeNumber" : "R190",
+    "storeName" : "Village Pointe",
+    "storeEnabled" : true,
+    "storeState" : "Nebraska",
+    "sellEdition" : false,
+    "storeCity" : "Omaha"
+  }, {
+    "storeNumber" : "R322",
+    "storeName" : "Vintage Faire",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Modesto"
+  }, {
+    "storeNumber" : "R016",
+    "storeName" : "Walden Galleria",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "Buffalo"
+  }, {
+    "storeNumber" : "R014",
+    "storeName" : "Walnut Creek",
+    "storeEnabled" : true,
+    "storeState" : "California",
+    "sellEdition" : false,
+    "storeCity" : "Walnut Creek"
+  }, {
+    "storeNumber" : "R162",
+    "storeName" : "Walnut Street",
+    "storeEnabled" : true,
+    "storeState" : "Pennsylvania",
+    "sellEdition" : false,
+    "storeCity" : "Philadelphia"
+  }, {
+    "storeNumber" : "R068",
+    "storeName" : "Walt Whitman",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "Huntington Station"
+  }, {
+    "storeNumber" : "R090",
+    "storeName" : "Washington Square",
+    "storeEnabled" : true,
+    "storeState" : "Oregon",
+    "sellEdition" : false,
+    "storeCity" : "Tigard"
+  }, {
+    "storeNumber" : "R169",
+    "storeName" : "Waterside Shops",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Naples"
+  }, {
+    "storeNumber" : "R024",
+    "storeName" : "Wellington Green",
+    "storeEnabled" : true,
+    "storeState" : "Florida",
+    "sellEdition" : false,
+    "storeCity" : "Wellington"
+  }, {
+    "storeNumber" : "R250",
+    "storeName" : "West 14th Street",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "New York"
+  }, {
+    "storeNumber" : "R062",
+    "storeName" : "West County",
+    "storeEnabled" : true,
+    "storeState" : "Missouri",
+    "sellEdition" : false,
+    "storeCity" : "St. Louis"
+  }, {
+    "storeNumber" : "R203",
+    "storeName" : "West Town Mall",
+    "storeEnabled" : true,
+    "storeState" : "Tennessee",
+    "sellEdition" : false,
+    "storeCity" : "Knoxville"
+  }, {
+    "storeNumber" : "R229",
+    "storeName" : "West Towne",
+    "storeEnabled" : true,
+    "storeState" : "Wisconsin",
+    "sellEdition" : false,
+    "storeCity" : "Madison"
+  }, {
+    "storeNumber" : "R025",
+    "storeName" : "Westfarms",
+    "storeEnabled" : true,
+    "storeState" : "Connecticut",
+    "sellEdition" : false,
+    "storeCity" : "Farmington"
+  }, {
+    "storeNumber" : "R594",
+    "storeName" : "Williamsburg",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "Brooklyn"
+  }, {
+    "storeNumber" : "R008",
+    "storeName" : "Willow Bend",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "Plano"
+  }, {
+    "storeNumber" : "R234",
+    "storeName" : "Willow Grove Park",
+    "storeEnabled" : true,
+    "storeState" : "Pennsylvania",
+    "sellEdition" : false,
+    "storeCity" : "Willow Grove"
+  }, {
+    "storeNumber" : "R325",
+    "storeName" : "Willowbrook",
+    "storeEnabled" : true,
+    "storeState" : "New Jersey",
+    "sellEdition" : false,
+    "storeCity" : "Wayne"
+  }, {
+    "storeNumber" : "R321",
+    "storeName" : "Willowbrook Mall",
+    "storeEnabled" : true,
+    "storeState" : "Texas",
+    "sellEdition" : false,
+    "storeCity" : "Houston"
+  }, {
+    "storeNumber" : "R018",
+    "storeName" : "Woodfield",
+    "storeEnabled" : true,
+    "storeState" : "Illinois",
+    "sellEdition" : false,
+    "storeCity" : "Schaumburg"
+  }, {
+    "storeNumber" : "R132",
+    "storeName" : "Woodland",
+    "storeEnabled" : true,
+    "storeState" : "Michigan",
+    "sellEdition" : false,
+    "storeCity" : "Grand Rapids"
+  }, {
+    "storeNumber" : "R233",
+    "storeName" : "Woodland Hills",
+    "storeEnabled" : true,
+    "storeState" : "Oklahoma",
+    "sellEdition" : false,
+    "storeCity" : "Tulsa"
+  }, {
+    "storeNumber" : "R654",
+    "storeName" : "World Trade Center",
+    "storeEnabled" : true,
+    "storeState" : "New York",
+    "sellEdition" : false,
+    "storeCity" : "New York"
+  } ],
+  "timezone" : "EDT",
+  "updatedDate" : "Friday, September 9",
+  "reservationURL" : "https://reserve-us.apple.com/US/en_US/reserve/iPhone"
+}

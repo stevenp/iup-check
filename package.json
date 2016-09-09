@@ -1,0 +1,20 @@
+{
+  "name": "iup-check",
+  "version": "0.0.1",
+  "description": "Check for iPhone Upgrade Program Availability",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "6.5"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.14.0",
+    "config": "^1.21.0",
+    "lodash": "^4.15.0",
+    "twilio": "^2.10.0"
+  }
+}

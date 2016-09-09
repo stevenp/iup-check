@@ -1,0 +1,14 @@
+{
+  "twilio": {
+    "enabled": false,
+    "sid": "",
+    "token": "",
+    "from": "+15555551212",
+    "to": "+15555551212"
+  },
+  "cities": ["Los Angeles"],
+  "product": "iPhone 7 Plus",
+  "carrier": "AT&T",
+  "capacity": "256GB",
+  "color": "Black"
+}
